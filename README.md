@@ -1,6 +1,6 @@
-# Basic Python Projects
+# Diverse Python Projects
 
-This repository contains a collection of basic Python projects suitable for beginners. The purpose of this repository is to provide a learning resource and an opportunity for contributors to practice their Python skills through pull requests.
+This repository contains a collection of Diverse Python projects suitable for beginners. The purpose of this repository is to provide a learning resource and an opportunity for contributors to practice their Python skills through pull requests.
 
 ## Getting Started
 
